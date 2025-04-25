@@ -1,5 +1,4 @@
-<img align="right" height="420" src="https://64.media.tumblr.com/3ea7b38cf62f4868e908beeffcbc30bd/5638a4e267fb4aa4-59/s540x810/940d91d4bc7451f646ac318f9e6ee8b96e3050b0.gif"  />
-<br />
+<img align="right" height="350" src="https://64.media.tumblr.com/3ea7b38cf62f4868e908beeffcbc30bd/5638a4e267fb4aa4-59/s540x810/940d91d4bc7451f646ac318f9e6ee8b96e3050b0.gif"  />
 
 ###
 
@@ -62,9 +61,8 @@
 ###
 
 <br clear="both">
-<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolchaa&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolchaa&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolchaa&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" alt="languages graph"  />
 </div>
