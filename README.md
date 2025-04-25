@@ -1,12 +1,8 @@
-<img align="right" height="350" src="https://64.media.tumblr.com/3ea7b38cf62f4868e908beeffcbc30bd/5638a4e267fb4aa4-59/s540x810/940d91d4bc7451f646ac318f9e6ee8b96e3050b0.gif"  />
+<h6 align="center">Technologies I use:</h6>
 
 ###
 
-<h6 align="left">Technologies I use:</h6>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
@@ -23,11 +19,11 @@
 
 ###
 
-<h6 align="left">Tools I use:</h6>
+<h6 align="center">Tools I use:</h6>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
@@ -42,11 +38,11 @@
 
 ###
 
-<h6 align="left">Connect with me:</h6>
+<h6 align="center">Connect with me:</h6>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/nikolchaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -59,8 +55,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolchaa&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph" /> <br>
