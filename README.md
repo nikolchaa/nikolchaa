@@ -15,6 +15,8 @@
   <img src="https://cdn.simpleicons.org/rust/000000" height="30" alt="rust logo"  />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="vite logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="netlify logo"  />
 </div>
 
 ###
