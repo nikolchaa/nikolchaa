@@ -1,4 +1,5 @@
-<img align="right" height="350" src="https://64.media.tumblr.com/3ea7b38cf62f4868e908beeffcbc30bd/5638a4e267fb4aa4-59/s540x810/940d91d4bc7451f646ac318f9e6ee8b96e3050b0.gif"  />
+<img align="right" height="420" src="https://64.media.tumblr.com/3ea7b38cf62f4868e908beeffcbc30bd/5638a4e267fb4aa4-59/s540x810/940d91d4bc7451f646ac318f9e6ee8b96e3050b0.gif"  />
+<br />
 
 ###
 
@@ -61,6 +62,7 @@
 ###
 
 <br clear="both">
+<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolchaa&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph" /> <br>
