@@ -66,5 +66,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikolchaa&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="300" alt="activity-graph graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikolchaa&locale=en&hide_title=false&layout=donut-vertical&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" alt="languages graph"  />
 </div>
-
-###
