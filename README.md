@@ -54,10 +54,10 @@
 
 <h3 align="center">🏆 Awards</h3>
 
-- 🥇 1st Place – Galaksija Kup 2024 – AI Smart Glasses (Vision One)  
-- 🥉 3rd Place – National Python Programming Competition  
-- 🥈 2nd Place – Galaksija Kup 2023 – Sign Language Glove  
-- 📝 Best Paper Award – IEEESTEC 2024 – Human-AI interface research
+- 🥇 1st Place – Galaksija Kup 2024 – AI Smart Glasses (Vision One)
+- 🥈 2nd Place – Galaksija Kup 2023 – Sign Language Translation Glove  
+- 🥉 3rd Place – National Programming Competition (Python)
+- 📝 Best Paper Award – IEEESTEC 2024 – AI Smart Glasses Research (Vision One)
 
 <h3 align="center">📈 GitHub Stats</h3>
 
