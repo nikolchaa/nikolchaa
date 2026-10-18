@@ -5,10 +5,9 @@
 <div align="center">
 
 <a href="https://nikolchaa.com"><img src="https://img.shields.io/badge/nikolchaa.com-c6f36b?style=flat-square&logo=googlechrome&logoColor=111" alt="Website" /></a>
-<a href="https://www.linkedin.com/in/nikolchaa/"><img src="https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=c6f36b" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/nikolchaa/"><img src="https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2M2ZjM2YiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg0NyAzLjM3LTEuODQ3IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/nikolchaa/"><img src="https://img.shields.io/badge/Instagram-111?style=flat-square&logo=instagram&logoColor=c6f36b" alt="Instagram" /></a>
 <a href="mailto:contact@nikolchaa.com"><img src="https://img.shields.io/badge/contact@nikolchaa.com-111?style=flat-square&logo=maildotru&logoColor=c6f36b" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Niš,_Serbia-111?style=flat-square&logo=googlemaps&logoColor=c6f36b" alt="Niš, Serbia" />
 
 </div>
 
